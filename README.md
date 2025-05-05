@@ -11,7 +11,7 @@ To create a UiPath workflow that scrapes structured data from a website and save
 ## Materials Required:
 UiPath Studio (Community or Enterprise Edition)
 Internet connection
-A sample website to scrape (e.g., https://books.toscrape.com)
+A sample website to scrape (e.g., https://www.amazon.com)
 Basic knowledge of UiPath's Data Scraping Wizard
 
 ## Procedure
@@ -20,8 +20,7 @@ Open UiPath Studio and create a new process named WebScrapingExample.
 
  Step 2: Open the Target Website
 Open your web browser and go to:
-https://books.toscrape.com
-
+[https://www.amazon.com]
  Step 3: Use Data Scraping Wizard
 In UiPath Studio, click on "Data Scraping" from the Design tab.
 
@@ -51,6 +50,8 @@ Save the workflow.
 Click Run.
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/6a713fb8-ea9c-4f36-aa75-8d6adc3734ac)
+
 A CSV file named BooksData.csv will be created in your project folder with data like:
 
 Title	Price	URL
