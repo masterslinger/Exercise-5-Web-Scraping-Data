@@ -54,10 +54,7 @@ Click Run.
 
 A CSV file named BooksData.csv will be created in your project folder with data like:
 
-Title	Price	URL
-A Light in the Attic	£51.77	http://books.toscrape.com/...
-Tipping the Velvet	£53.74	http://books.toscrape.com/...
-...	...	...
+![image](https://github.com/user-attachments/assets/299ba86a-51eb-40c7-bbf9-0e299bb28112)
 
 ## Result:
 The workflow successfully scrapes data from the website and saves it into a CSV file using UiPath's Data Scraping and File I/O activities.
