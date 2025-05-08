@@ -1,8 +1,8 @@
 # Exercise-5-Web-Scraping-Data
 
 ~~~
-Name : W Allen Johnston Ozario  
-Reg.No : 21222411004  
+Name : JOHN PALL M
+Reg.No : 212224040140
 ~~~
 
 ## Aim:
