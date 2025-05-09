@@ -1,9 +1,7 @@
 # Exercise-5-Web-Scraping-Data
 
-~~~
-Name : JOHN PALL M
-Reg.No : 212224040140
-~~~
+Name : Syed Abu Hanifa. L
+Reg.No : 212224040346
 
 ## Aim:
 To create a UiPath workflow that scrapes structured data from a website and saves it into a CSV file.
